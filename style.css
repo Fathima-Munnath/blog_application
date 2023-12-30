@@ -1,0 +1,69 @@
+.section{
+    padding-left: 250px;
+    padding-top: 30px;
+    
+}
+.image2{
+    max-width: 50%;
+    max-height: 50%;
+    padding:20px;
+
+}
+
+.imgTd{
+    text-align: center;
+    vertical-align: middle;
+    width: 50%;
+}
+.stl{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#model{
+    padding-left: 500px;
+}
+
+#container{
+    padding-left: 400px;
+}
+.image4{
+    padding-left:380px;
+    max-width: 60%;
+}
+.image3{
+    padding-left:400px;
+    max-width: 50%;
+}
+.image5{
+    padding-left:400px;
+    max-width: 50%;
+}
+#footer{
+    padding-left:400px ;
+}
+#container{
+    padding-left:500px ;
+} 
+.image6{
+    padding-left:400px;
+    max-width: 50%;
+}
+.button{
+    padding-left: 450px;
+} 
+.km{
+    padding-left:80px ;
+    font-size: 40px;
+    color: blue;
+}
+.hilight{
+    font-size: 24px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 20px;
+    text-indent: 10%;
+    margin-bottom: 3em;
+}
+.contact{
+    background-color: color-dodge;
+}
